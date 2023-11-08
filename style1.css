@@ -1,0 +1,28 @@
+html{
+    scroll-behavior: smooth;
+}
+.fullscreen-landing{
+    background: url("img/phone repairs.jpg") no-repeat scroll center;
+    height: 100vh;
+    background-size: cover;
+}
+.overlay{
+    background-color: rgba(0,0,0,0.5);
+    height: 100vh;
+
+}
+.bg-light{
+    background-color: ghostwhite;
+}
+.search-box{
+    height: 30px;
+    width: 400px;
+}
+.subscribe-section{
+    background: url("img/phone repair.jpg") no-repeat scroll center;
+    background-size: cover;
+}
+.subscribe-overlay{
+    background-color: rgba(0,0,0,0.5);
+    background-size: cover;
+}
